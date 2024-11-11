@@ -1,4 +1,4 @@
-NAME 				= 	phonebook
+NAME 				= 	sed_is_for_losers
 
 CC 					= 	c++
 CFLAGS 				= 	-Wall -Wextra -Werror -g -std=c++98
