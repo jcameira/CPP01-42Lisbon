@@ -1,4 +1,4 @@
-NAME 				= 	phonebook
+NAME 				= 	this_is_brain
 
 CC 					= 	c++
 CFLAGS 				= 	-Wall -Wextra -Werror -g -std=c++98
