@@ -1,4 +1,4 @@
-NAME 				= 	brains
+NAME 				= 	harlFilter
 
 CC 					= 	c++
 CFLAGS 				= 	-Wall -Wextra -Werror -g -std=c++98
